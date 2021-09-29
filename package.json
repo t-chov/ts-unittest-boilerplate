@@ -1,0 +1,27 @@
+{
+  "name": "ts-unittest-boilerplate",
+  "version": "1.0.0",
+  "description": "Unittest boilerplate for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/t-chov/ts-unittest-boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t-chov/ts-unittest-boilerplate/issues"
+  },
+  "homepage": "https://github.com/t-chov/ts-unittest-boilerplate#readme",
+  "dependencies": {
+    "jest": "^27.2.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "ts-jest": "^27.0.5"
+  }
+}
